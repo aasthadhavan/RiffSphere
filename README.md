@@ -1,4 +1,4 @@
-# 🎧 Riffsphere — Intelligent Music System
+# 🎧 RiffSphere — Intelligent Music System
 
 ## 📌 Overview
 Riffsphere is an AI-powered intelligent music system built on the concept of **Music and Personality Engineering**.  
