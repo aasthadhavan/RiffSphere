@@ -1,0 +1,8 @@
+com\riffsphere\backend\RiffsphereBackendApplication.class
+com\riffsphere\backend\models\User.class
+com\riffsphere\backend\models\User$UserBuilder.class
+com\riffsphere\backend\controllers\HomeController.class
+com\riffsphere\backend\models\Playlist.class
+com\riffsphere\backend\controllers\UserController.class
+com\riffsphere\backend\repositories\UserRepository.class
+com\riffsphere\backend\models\Playlist$PlaylistBuilder.class
