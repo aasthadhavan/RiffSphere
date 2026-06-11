@@ -1,6 +1,6 @@
-# 🎧 RiffSphere — Intelligent Music System
+# RiffSphere — Intelligent Music System🎧
 
-## 📌 Overview
+## Overview
 Riffsphere is an AI-powered intelligent music system built on the concept of **Music and Personality Engineering**.  
 It dynamically adapts music recommendations based on user mood, personality traits, and contextual behavior, creating a deeply personalized listening experience.
 
@@ -8,7 +8,7 @@ Unlike traditional platforms that rely only on genre-based filtering, Riffsphere
 
 ---
 
-## 🚨 Problem Statement
+## Problem Statement
 Modern music platforms suffer from **choice overload**, where users struggle to find the right song at the right moment.
 
 Existing systems fail to consider:
@@ -20,17 +20,17 @@ Riffsphere solves this by introducing a **context-aware intelligent recommendati
 
 ---
 
-## 💡 Key Features
+## Key Features
 
-### 🎭 Dynamic Mood Mixer
+### Dynamic Mood Mixer
 - Real-time mood-based filtering
 - Adapts recommendations based on emotional state
 
-### 🧠 Personality Profiling System
+### Personality Profiling System
 - Classifies users into listening personality types
 - Improves recommendation accuracy over time
 
-### 🤖 AI Recommendation Engine
+### AI Recommendation Engine
 - Hybrid algorithm combining:
   - Mood-based filtering
   - Personality-based modeling
@@ -38,7 +38,7 @@ Riffsphere solves this by introducing a **context-aware intelligent recommendati
 
 ---
 
-## 🏗️ System Architecture
+## System Architecture
 
 ### Frontend
 - JavaFX
@@ -62,7 +62,7 @@ Riffsphere solves this by introducing a **context-aware intelligent recommendati
 
 ---
 
-## 🧩 Project Structure
+## Project Structure
 RIFFSPHERE/
 ├── backend/ Spring Boot Backend
 │ ├── src/main/java/ Controllers & Business Logic
@@ -81,7 +81,7 @@ RIFFSPHERE/
 
 ---
 
-## 🧠 Design Patterns Used
+## Design Patterns Used
 
 - **Strategy Pattern** → Dynamic recommendation switching  
 - **Singleton Pattern** → Central session management  
@@ -90,7 +90,7 @@ RIFFSPHERE/
 
 ---
 
-## 🚀 Future Enhancements
+## Future Enhancements
 
 - Cloud deployment (AWS / Azure)
 - Mobile application support
@@ -99,7 +99,7 @@ RIFFSPHERE/
 
 ---
 
-## 🎯 Conclusion
+## Conclusion
 Riffsphere represents a shift from traditional music platforms to **intelligent, emotionally aware systems**.
 
 It combines:
@@ -111,7 +111,7 @@ to deliver a highly personalized music experience.
 
 ---
 
-## 👩‍💻 Tech Stack
+## Tech Stack
 - Java
 - JavaFX
 - Spring Boot
